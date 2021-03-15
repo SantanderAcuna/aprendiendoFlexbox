@@ -1,7 +1,7 @@
 ##Aprendiendo flexbox 
 
 
-| Aprendiendo git / github y flexbox                                                                                                    |
+| Aprendiendo git / github y flexbox                                                                                                    |Descripcion
 | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
 | - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | Posicionanado imagenes                                       |
 | - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) | manejo de comandos en git                                                   |
